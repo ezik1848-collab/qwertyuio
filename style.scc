@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    background: #FFFFFF;
+}
+
+header, footer {
+    background-color: #C0C4FF;
+    height: 110px;
+}
+
+.ezh {
+    height: 370px;
+    width: 600px;
+    margin-top: 200px;
+    margin-left: 450px;
+}
+
+p img {
+   height: 370px;
+    width: 600px;
+    margin-bottom: 35px; 
+    text-align: center;
+    margin-left: 300px; 
+}
+
+h1 {
+    font-size: 48px;
+    color: #1FA32F;
+    text-align: center;
+}
+
+h2 {
+    margin-left: 100px;
+    font-size: 36px;
+}
+
+ul {
+    font-size: 36px;
+}
